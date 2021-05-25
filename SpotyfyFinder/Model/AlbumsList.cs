@@ -1,0 +1,18 @@
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///<summary> public class List of albums</summary>
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+using SpotifyFinder.Model;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SpotyfyFinder.Model
+{
+    public class AlbumsList
+    {
+        public Albums Albums { get; set; }
+    }
+}

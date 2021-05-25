@@ -1,0 +1,49 @@
+﻿<Page x:Class="SpotyfyFinder.Pages.AlbumDetailsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:SpotyfyFinder.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="500" d:DesignWidth="800"
+      Title="AlbumDetailsPage" Loaded="OnPagesLoaded">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+            </Grid.RowDefinitions>
+
+        <Button x:Name="BackButton" Content="Back to list" Grid.Row="1" Click="OnBackButtonClick" Margin="10,0,0,0" Background="#FF91AFEB" />
+        <Grid Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Image x:Name="BigImage" Grid.Column="0"/>
+        </Grid>
+
+       
+            <Grid Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                   
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <MediaElement x:Name="TrackPlayer" LoadedBehavior="Manual" UnloadedBehavior="Stop"/>
+            </Grid>
+
+            
+    </Grid>
+</Page>

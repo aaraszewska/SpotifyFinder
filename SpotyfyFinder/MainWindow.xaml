@@ -1,0 +1,30 @@
+﻿<Window x:Class="SpotyfyFinder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SpotyfyFinder"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"   >
+    <Grid   >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="10" Grid.Row="0">
+            <Label  Content="Search" FontWeight="Bold" FontSize="36" Margin="0,0,20,0" Padding="0"/>
+            <TextBox x:Name="searchBox" Width="632"  KeyUp="SearchBox_OnKeyUp" FontSize="24" Background="#FF91AFEB" BorderBrush="{x:Null}" Height="34"/>
+        </StackPanel>
+        <Frame x:Name="MyFrame" Grid.Row="1" Loaded="OnWindowLoaded" NavigationUIVisibility="Hidden" ></Frame>
+        
+
+
+        
+
+        <TextBlock Text=" Created by  Anna Araszewska 2020" Grid.Row="2" VerticalAlignment="Center"/>
+    </Grid>
+</Window>

@@ -1,0 +1,42 @@
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\bin\Debug\SpotyfyFinder.exe.config
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\bin\Debug\SpotyfyFinder.exe
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\bin\Debug\SpotyfyFinder.pdb
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\SpotyfyFinder.csprojAssemblyReference.cache
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\MainWindow.g.cs
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\App.g.cs
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\SpotyfyFinder_MarkupCompile.cache
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\SpotyfyFinder_MarkupCompile.lref
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\MainWindow.baml
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\SpotyfyFinder.g.resources
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\SpotyfyFinder.Properties.Resources.resources
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\SpotyfyFinder.csproj.GenerateResource.cache
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\SpotyfyFinder.csproj.CopyComplete
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\SpotyfyFinder.exe
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\SpotyfyFinder.pdb
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\Pages\AlbumListPage.g.cs
+C:\Users\Anna\Desktop\C#new\SpotyfyFinder\SpotyfyFinder\obj\Debug\Pages\AlbumListPage.baml
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\bin\Debug\SpotyfyFinder.exe.config
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\bin\Debug\SpotyfyFinder.exe
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\bin\Debug\SpotyfyFinder.pdb
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\SpotyfyFinder.csprojAssemblyReference.cache
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\MainWindow.g.cs
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\Pages\AlbumListPage.g.cs
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\App.g.cs
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\SpotyfyFinder_MarkupCompile.cache
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\SpotyfyFinder_MarkupCompile.lref
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\MainWindow.baml
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\Pages\AlbumListPage.baml
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\SpotyfyFinder.g.resources
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\SpotyfyFinder.Properties.Resources.resources
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\SpotyfyFinder.csproj.GenerateResource.cache
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\SpotyfyFinder.csproj.CopyComplete
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\SpotyfyFinder.exe
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\SpotyfyFinder.pdb
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\Pages\AlbumDetailsPage.g.cs
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\obj\Debug\Pages\AlbumDetailsPage.baml
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\bin\Debug\NAudio.dll
+C:\Users\Anna\Desktop\program do pokazania\SpotyfyFinderWer1\SpotyfyFinder\bin\Debug\NAudio.xml
